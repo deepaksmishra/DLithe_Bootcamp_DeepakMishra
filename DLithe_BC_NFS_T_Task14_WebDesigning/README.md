@@ -1,6 +1,6 @@
 <h1>OUTPUT OF THE MAINPAGE</h1>
 
-<a href="https://ibb.co/GFQtXhW"><img src="https://i.ibb.co/YbBy6rc/screencapture-file-C-Users-deepa-One-Drive-Desktop-ecommerce360-main-html-2022-02-05-18-49-21-1.png" alt="screencapture-file-C-Users-deepa-One-Drive-Desktop-ecommerce360-main-html-2022-02-05-18-49-21-1" border="0"></a>
+<img src="https://i.postimg.cc/J0P10W4n/screencapture-file-C-Users-deepa-One-Drive-Desktop-ecommerce360-main-html-2022-02-05-18-58-41.png" >
 
 
 <h1> OUT PUT OF THE LOGIN </h1>
