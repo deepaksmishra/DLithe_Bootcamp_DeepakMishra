@@ -1,6 +1,6 @@
 <h1>OUTPUT OF THE MAINPAGE</h1>
 
-<img src="https://i.ibb.co/fd6W2b2/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/fd6W2b2/image.png">
 
 
 <h1> OUT PUT OF THE LOGIN </h1>
